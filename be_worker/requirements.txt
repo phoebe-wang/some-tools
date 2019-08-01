@@ -1,0 +1,4 @@
+redis==2.10.5
+requests==2.10.0
+paramiko==2.0.1
+simplejson==3.16.0
